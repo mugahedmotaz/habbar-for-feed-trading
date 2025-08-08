@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#ecf8f1"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <rect x="60" y="60" width="1080" height="510" rx="24" fill="#28B46B" opacity="0.08"/>
+  <g transform="translate(90,110)">
+    <rect width="160" height="160" rx="20" fill="#28B46B"/>
+    <circle cx="60" cy="80" r="56" fill="#fff"/>
+    <path d="M44 92c16-30 37-40 64-40-6 20-10 26-26 40 6 6 10 10 12 12-16 4-28 0-50-12z" fill="#28B46B"/>
+  </g>
+  <text x="300" y="180" font-family="Cairo, Arial, sans-serif" font-size="56" font-weight="800" fill="#135536">هبار للأعلاف</text>
+  <text x="300" y="240" font-family="Cairo, Arial, sans-serif" font-size="28" fill="#1d864f">جودة • موثوقية • سرعة</text>
+  <text x="300" y="320" font-family="Cairo, Arial, sans-serif" font-size="28" fill="#334155">توريد أعلاف عالية الجودة للإبل والماشية والأغنام والدواجن</text>
+  <text x="300" y="370" font-family="Cairo, Arial, sans-serif" font-size="24" fill="#334155">استيراد مباشر من السودان — تغطي خدماتنا جميع مناطق قطر</text>
+</svg>

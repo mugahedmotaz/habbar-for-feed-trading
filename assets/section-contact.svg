@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ecf8f1"/>
+      <stop offset="1" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="220" rx="20" fill="url(#cbg)"/>
+  <g transform="translate(60,44)" fill="#28B46B">
+    <rect x="0" y="0" width="220" height="56" rx="12" opacity="0.16"/>
+    <rect x="0" y="72" width="160" height="56" rx="12" opacity="0.12"/>
+    <rect x="260" y="0" width="200" height="56" rx="12" opacity="0.14"/>
+    <rect x="260" y="72" width="260" height="56" rx="12" opacity="0.1"/>
+  </g>
+  <text x="60" y="188" font-family="Cairo, Arial" font-size="24" font-weight="800" fill="#135536">تواصل معنا</text>
+</svg>

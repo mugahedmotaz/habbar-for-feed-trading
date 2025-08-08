@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="260" viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgp" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ecf8f1"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="260" rx="20" fill="url(#bgp)"/>
+  <g transform="translate(40,40)">
+    <rect width="120" height="120" rx="16" fill="#28B46B" opacity="0.12"/>
+    <rect x="24" y="24" width="72" height="48" rx="10" fill="#28B46B" opacity="0.22"/>
+  </g>
+  <g transform="translate(220,40)">
+    <rect width="120" height="120" rx="16" fill="#28B46B" opacity="0.1"/>
+    <circle cx="60" cy="60" r="36" fill="#28B46B" opacity="0.18"/>
+  </g>
+  <g transform="translate(400,40)">
+    <rect width="160" height="120" rx="16" fill="#28B46B" opacity="0.08"/>
+    <rect x="20" y="24" width="120" height="30" rx="8" fill="#28B46B" opacity="0.18"/>
+  </g>
+  <g transform="translate(600,40)">
+    <rect width="160" height="120" rx="16" fill="#28B46B" opacity="0.06"/>
+    <circle cx="56" cy="56" r="28" fill="#28B46B" opacity="0.16"/>
+  </g>
+  <text x="40" y="210" font-family="Cairo, Arial" font-size="24" font-weight="800" fill="#135536">منتجاتنا وخدماتنا</text>
+</svg>
